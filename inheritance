@@ -1,0 +1,172 @@
+class veg:
+    
+    def sweetcornsoup(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(120)
+        return self.cost
+    def garlicbread(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(120)
+        return self.cost
+    def paneerpizza(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(220)
+        return self.cost
+    def paneer65(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(150)
+        return self.cost
+    def paneertikka(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(200)
+        return self.cost
+    def honeychillyptato(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(100)
+        return self.cost
+    def babycornfry(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(150)
+        return self.cost
+    def crispycorn(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(120)
+        return self.cost
+    def alootikki(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(150)
+        return self.cost
+    def manchurian(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(150)
+        return self.cost
+    def frenchfries(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(100)
+        return self.cost
+class nonveg:
+    
+    def chickenpizza(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(120)
+        return self.cost
+    def chicken65(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(120)
+        return self.cost
+    def fishfingers(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(220)
+        return self.cost
+    def eggspringroll(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(150)
+        return self.cost
+    def chickentikka(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(200)
+        return self.cost
+    def platter(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(100)
+        return self.cost
+    def chickenmanchowsoup(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(150)
+        return self.cost
+    def lemonchicken(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(120)
+        return self.cost
+    def fishtikka(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(150)
+        return self.cost
+    def chillychicken(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(150)
+        return self.cost
+    def eggpepperdry(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(100)
+        return self.cost
+
+class drinks:
+    
+    def Pineapplejuice(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(120)
+        return self.cost
+    def mangoshake(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(120)
+        return self.cost
+    def virginmohito(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(220)
+        return self.cost
+    def coldcoffee(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(150)
+        return self.cost
+    def lassisweet_or_salt(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(200)
+        return self.cost
+
+class desserts:
+    
+    def friedicecream(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(120)
+        return self.cost
+    def hotchocofudge(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(120)
+        return self.cost
+    def brownie(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(220)
+        return self.cost
+    def fruitsalad(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(150)
+        return self.cost
+    def gajarkahalwa(self):
+        print("Enter the quantity: ")
+        self.quan=int(input())
+        self.cost=(self.quan).__mul__(160)
+        return self.cost
+
+                
